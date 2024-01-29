@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="VQTBB20821101129" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-01-29T10:37:00.190069Z" />
+        </State>
+      </entry>
+      <entry key="app.nettoollib">
+        <State />
+      </entry>
+      <entry key="nettool">
+        <State />
+      </entry>
+      <entry key="nettoollib">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
